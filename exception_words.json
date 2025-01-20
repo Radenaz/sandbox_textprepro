@@ -1,4 +1,30 @@
 {
-    "exception_words": ["tepat", "waktu", "lama"]
+    "exception_words": [
+    "tepat",
+    "waktu",
+    "lama",
+    "lambat",
+    "lelet",
+    "cepat",
+    "murah",
+    "mahal",
+    "pelayanan",
+    "terlambat",
+    "tepat waktu",
+    "janji",
+    "jadwal",
+    "ramah",
+    "kasar",
+    "bantu",
+    "respon",
+    "hilang",
+    "rusak",
+    "komplain",
+    "ganti",
+    "puas",
+    "kecewa",
+    "bagus",
+    "buruk"
+  ]
   }
   
