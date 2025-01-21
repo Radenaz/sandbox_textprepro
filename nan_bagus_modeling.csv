@@ -1,0 +1,374 @@
+rating,reviews,company,province,parsed_date,processed_reviews,tokenized_reviews,topic
+5,Ok,JNE,Aceh,2022-01-21,nan,['nan'],Pelayanan Bagus
+5,24jam ready,JNE,Aceh,2020-01-22,nan,['nan'],Pelayanan Bagus
+5,Great,JNE,Aceh,2019-01-22,nan,['nan'],Pelayanan Bagus
+5,Ok,JNE,Aceh,2020-01-22,nan,['nan'],Pelayanan Bagus
+4,Ok,JNE,Aceh,2020-01-22,nan,['nan'],Pelayanan Bagus
+4,Dulu sering ngirim barang disini guys,JNE,Aceh,2024-10-22,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Aceh,2024-05-25,nan,['nan'],Pelayanan Bagus
+5,𝐼𝑛𝑑𝑎ℎ𝑛𝑦𝑎 …,JNE,Aceh,2024-03-26,nan,['nan'],Pelayanan Bagus
+5,Wow,JNE,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,yang kedua,JNE,Aceh,2019-01-22,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Oke, tidak",JNE,Aceh,2019-01-22,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,DLL,JNE,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Tempat kirim2 paket,JNE,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👌 oke. …,JNE,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,melihat,JNE,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNE,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,DLL,JNE,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak apa-apa,JNE,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke. Kalau bisa hari minggu tetap bisa ambil paket,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Udah lebih ok,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Terima kasih banyak...!!!,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kurir,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Lebih baik,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNE,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jos dll,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Terlalu jauh,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Tidak apa-apa,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ambil sesuatu,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,nama baru,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,❤️,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Benar-benar,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Terima kasih.,JNE,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Okeyy,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Gudang dll,JNE,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jne ok,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,😊 …,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍 …,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍 …,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Boleh,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jne gorontalo,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Baik,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kasa aa,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Misalnya,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,🌸💐🌸💐🌸 …,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Tanya aja,JNE,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Mantab,JNE,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Keren,JNE,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dari.,JNE,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tempat keren,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,DLL,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll parahhhh,JNE,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,kamu bisa,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Terima kasih,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,layanan yang baik,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,dll.,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNE,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak apa-apa,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Ya, itu saja",JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kirim paket,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak banyak,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Saya bisa,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Buka 24 jam,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Lebih baik..,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,24 jam,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Layanan 24 jam,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNE,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Anda bisa.,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Ya, itu oke",JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Anjay,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jelas sekali,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Sio,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Melihat,JNE,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Wah 24 jam,JNE,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dari,JNE,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Suka itu,JNE,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,DLL,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,OKE,JNE,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Barang saya sudah 2 minggu lebih nda sampai2,JNE,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Benar,JNE,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke di sana,JNE,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Saya mau tanya apakah paket saya sudah di kirim kan,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,"Sejauh ini, mereka bekerja dengan baik",JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Itu benar,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,(DAN),JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Besar,JNE,Kepulauan Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kirim paket disini,JNE,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍 …,JNE,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,keren,JNE,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Keren,JNE,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa sekaliiiii 👍👍 …,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Pelayananya cukup baik,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍 …,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍 …,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Mantul,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,sekarang buka 24 jam..,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Layanan Kurir yang Baik,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,ya,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Kurir oke,JNE,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Tidak,JNE,Papua ,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Lumayan,JNE,Papua ,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Barang sy sdh sampai di sorong tapi blum di antar"" ya ?",JNE,Papua Barat Daya,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,JNE,Papua Barat Daya,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Wow,JNE,Papua Barat Daya,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Barang sy sdh sampai di sorong tapi blum di antar"" ya ?",JNE,Papua Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,JNE,Papua Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Wow,JNE,Papua Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,🙏🙏🙏 …,JNE,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Makasih atas pelayananya,.",JNE,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍 …,JNE,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,❤️,JNE,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍🏽 …,JNE,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke daaah,JNE,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👌👍 …,JNE,Papua Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,JNE,Papua Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Layanan luar biasa,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar..,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,#Bagus,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke...,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Dll,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Atas,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍🏻👍🏻 …,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"jakarta
+aku akan",JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Ya,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍👍 …,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Satu gudang JNE,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,jne okkk,JNE,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Jika,JNE,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dekat tempat,JNE,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Keren,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Lumayan,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dengan baik,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Lagi,JNE,Sulawesi Tenggara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Oke, 24 jam",JNE,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNE,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll,JNE,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Wow,JNE,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,24jam siap,JNE,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNE,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dll 24 jam,JNE,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Wah,JNE,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Okeyy,JNE,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,😎 …,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Siap 24 jam,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,24 jam,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Layanan 24 jam,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👌👌👌 …,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Ya,JNE,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,"Oke, ya",JNT,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,😶 …,JNT,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak,JNT,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍 …,JNT,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Pakai J & T aja buat kirim kirim Barang...,JNT,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Cukup utk semuanya,JNT,Bangka Belitung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Jadi begitu..,JNT,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Kurir,JNT,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍 …,JNT,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Sangat baik sekali,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍 …,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Sedang,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oh,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Bengkulu,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍 …,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍👍👍 …,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Terlalu banyak,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,iya,JNT,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,ATAS,JNT,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,akhir,JNT,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNT,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Jambi,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,oke oke,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oh oke,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,bukan,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNT,Jawa Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Layanan baik,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Seperti ini,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,yaya,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke...,JNT,Jawa Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Suka sekali,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dia,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ups,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Mmmmmmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaannnnnnnnnnnnnnnnnnnnnnnnttttttttttttttttttttttaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaapppppppppppppppppppppp ccccccccccccccccooooooooooooooyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Jawa Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tempat  kirim paket,JNT,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Wow,JNT,Kalimantan Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ok bgt,JNT,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,JNT,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke banget,JNT,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👌 …,JNT,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Kalimantan Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke bgt,JNT,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Atas...👍 …,JNT,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke deh...,JNT,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,J&T oke,JNT,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Kalimantan Timur,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,JNT,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,oke,JNT,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNT,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍👍👍 …,JNT,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Atas,JNT,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNT,Maluku Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Terima Kasih,JNT,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Belum pernah ada masalah, masih baik² saja",JNT,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Okeee,JNT,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Dan,JNT,NTB,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Lebih baik dari JNE,JNT,Papua ,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Papua ,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,lumayan,JNT,Papua Barat Daya,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Papua Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍👍🙏 …,JNT,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Tidak apa-apa,JNT,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,DAN,JNT,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍👍 …,JNT,Papua Pegunungan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Cukup baik ya..,JNT,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Mantul,JNT,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Keren,JNT,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Keren,JNT,Papua Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Cukup baik,JNT,Papua Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,9/10.,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,dkk,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Jnt,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Besar,JNT,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kirim paket terima paket,JNT,Sulawesi Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Sulawesi Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,mntp,JNT,Sulawesi Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Alhamdulillah ya,JNT,Sulawesi Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Mantab,terima kasih👍👍👍 …",JNT,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Kak kpn buka?,JNT,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,kirim dan kirim paket saya ke sini,JNT,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,♡♡♡,JNT,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Makin dekat buat kirim2 barang..,JNT,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍 …,JNT,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Gudang nya besar,JNT,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,👍 …,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Banyak,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Okekk,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tidak,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍👍 …,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Bukan,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ya,JNT,Sumatera Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke...,Sicepat,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,"Tiba""",Sicepat,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,Sicepat,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍👍 …,Sicepat,Aceh,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,👍 …,Sicepat,Bali,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,jossss 👍👍👍👍👍 …,Sicepat,Banten,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Alhamdulillah sampai,Sicepat,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,wah,Sicepat,DIY Yogyakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Jika,Sicepat,DKI Jakarta,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,Sicepat,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,Sicepat,Gorontalo,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Ok juga,Sicepat,Kalimantan Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Biasa aja si,Sicepat,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Besar,Sicepat,Kalimantan Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,Sicepat,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,Sicepat,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Sebuah,Sicepat,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Oke.,Sicepat,Lampung,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Baik,Sicepat,Maluku,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Paket,Sicepat,Papua ,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Lumayan😊 …,Sicepat,Papua Barat Daya,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Sicepat 👍 …,Sicepat,Papua Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Tolong Kak ❤,Sicepat,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,Sicepat,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,GG,Sicepat,Riau,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Luar biasa,Sicepat,Sulawesi Tengah,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Baik,Sicepat,Sulawesi Utara,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,gudang sicepat yg keren,Sicepat,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,Oke,Sicepat,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+4,Ke padang panjang pak,Sicepat,Sumatera Barat,2021-01-21,nan,['nan'],Pelayanan Bagus
+5,baik,Sicepat,Sumatera Selatan,2021-01-21,nan,['nan'],Pelayanan Bagus
