@@ -5,9 +5,6 @@ from nltk.corpus import stopwords
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from googletrans import Translator
 import contractions
-import asyncio
-import nest_asyncio
-nest_asyncio.apply()
 
 # Initialize necessary components
 stpwds_id = stopwords.words('indonesian')
@@ -36,13 +33,10 @@ stpwds_id = set(stpwds_id)
 stpwds_id.update(custom_stopwords)
 
 # Define the preprocessing function
-# Define the preprocessing function (synchronous version)
-def text_preprocessing_id(text):
+async def text_preprocessing_id(text):
     try:
-        # Handle translation synchronously
-        loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(loop)
-        translated = loop.run_until_complete(translator.translate(text, src='auto', dest='id'))
+        # Translate to Bahasa Indonesia
+        translated = await translator.translate(text, src='auto', dest='id')
         text = translated.text
     except Exception as e:
         print(f"Translation failed: {e}")
